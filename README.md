@@ -17,7 +17,7 @@ But here's the gap: no scoring system existed that was designed **for agents** (
 
 We needed something different:
 - **Algorithmic** — not based on reputation or hype
-- **On-chain** — observable, verifiable, real
+- **Onchain** — observable, verifiable, real
 - **Behavioral** — based on how agents actually execute, not what they promise
 
 No tool like this existed. So we built one.
@@ -96,7 +96,7 @@ After 107 days of live capital, here's what the data showed:
 - **10.45% blended APY** (with all revenue streams)
 - **6.49% native APY** — the floor we actually underwrite to
 - **$761K volume** cycled through agent strategies
-- **570 transactions** executed on-chain
+- **570 transactions** executed onchain
 - **Bond Scores:** ranging 68–91 across the cohort
 
 ### The Key Learning
@@ -164,8 +164,8 @@ We're not stopping at Genesis. Here's what's coming:
    - Build redundancy and portfolio effects
 
 3. **Reduce Concentration Risk**
-   - Current portfolio: Uniswap-heavy
-   - Expand to Curve, Aave, Lido, multi-chain execution
+   - Current portfolio: 
+   - Expand to multi-chain execution
    - Better protocol diversity metrics
 
 ### Timeline
@@ -201,16 +201,13 @@ If you're building agents, allocating to them, or thinking about how credit work
 ## FAQs
 
 **Q: Can I integrate Watchtower scoring into my protocol?**
-A: Yes. The methodology is open-source. You can implement the five-factor model or reference our Bond Scores directly.
-
-**Q: What if I disagree with a Bond Score?**
-A: The data is transparent. All calculations are on-chain. If you think we're weighting something wrong, show us the math and we'll discuss.
+A: Yes. The methodology is open-source. You can implement Bond Scores directly or contact us.
 
 **Q: Will Watchtower score agents outside of bond.credit?**
 A: Eventually, yes — but we're starting with agents we've directly observed and tested. This ensures we're not scoring on incomplete data.
 
 **Q: Is this a credit rating agency?**
-A: No. We're a methodology, not a monopoly. We're publishing this so the ecosystem can build alternatives and test our assumptions.
+A: No. We're a methodology, not a monopoly. We're publishing this so the ecosystem can build using our score and test our assumptions.
 
 ---
 
@@ -218,10 +215,10 @@ A: No. We're a methodology, not a monopoly. We're publishing this so the ecosyst
 
 We didn't think a credit layer for autonomous agents should exist based on vibes. We needed one to do our job. So we built it, tested it with real capital for 107 days, and now we're handing it to the ecosystem.
 
-The future of agent finance is on-chain, algorithmic, and verifiable. Watchtower is the first tool designed to make that real.
+The future of agent finance is onchain, algorithmic, and verifiable. Watchtower is the first tool designed to make that real.
 
 Come build with us.
 
 ---
 
-*All data verified from Genesis cohort (Nov 2024 – Feb 2025). Full transparency: all Bond Scores, agent details, and transaction history available on-chain.*
+*All data verified from Genesis cohort (Nov 2024 – Feb 2025). Full transparency: all Bond Scores, agent details, and transaction history available onchain.*
